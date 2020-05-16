@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/Pasinsiri/WebExample/edit/
 
 EDITED: Here is my [resume](https://github.com/Pasinsiri/WebExample/blob/master/Pasin.S_Resume.pdf)
 
-EDITED 2: Here is my [image](example_pic.jpg)
-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
